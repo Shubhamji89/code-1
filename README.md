@@ -15,7 +15,7 @@ Auther-Shubham chaudhary
         <p>Your catchy tagline goes here.</p>
     </header>
     
-    <section id="features">
+<section id="features">
         <h2>Key Features</h2>
         <ul>
             <li>Feature 1</li>
